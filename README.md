@@ -1,6 +1,12 @@
 # E-commerce-Website
 An E-commerce Application along with Payment gateway using Django and ReactJS.
 
+For Frontend(ProjFrontend) run: "npm install" and then "npm start" in the Terminal.
+
+
+
+
+
 SCREENSHOTS(website)
 
 Home page:
